@@ -1,5 +1,5 @@
 | 번호 | 시험 번호 | 시험 이름 | 인증 이름 | 수준 |
-| ---
+| --- | --- | --- | --- | --- |
 | 01 | [AZ-900←클릭](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900) | Azure 기초 | Microsoft Azure Fundamentals | Fundamentals |
 | 02 | [AZ-103←클릭](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-103) | Azure 관리자 | Azure Administrator Associate | Associate |
 | 03 | [AZ-104(Beta)←클릭](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-104) | Azure 관리자 | Azure Administrator Associate | Associate |
