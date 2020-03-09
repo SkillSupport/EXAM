@@ -13,7 +13,7 @@
 
 | 번호 | 시험 번호 | 시험 이름 | 인증 이름 | 레벨 | 비고 |
 | --- | --- | --- | --- | --- | --- |
-| 01 | [AZ-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900) | Azure 기초 | Azure Fundamentals | Fundamentals | |
+| 01 | [AZ-900](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900) | Azure 기초 | Azure Fundamentals | Fundamentals | 2020.05.28 업데이트  |
 | 02 | [AZ-103](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-103) | Azure 관리자 | Azure Administrator | Associate | 2020.06.30 만료 예정|
 | 03 | [AZ-104(Beta)](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-104) | Azure 관리자 | Azure Administrator | Associate | 2020.3.31 출시 예정 |
 | 04 | [AZ-203](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-203) | Azure 솔루션 개발 | Azure Developer | Associate | 2020.05.31 만료 예정 |
