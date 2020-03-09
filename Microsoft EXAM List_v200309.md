@@ -9,5 +9,5 @@
 | 07 | [AZ-301](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-301) | Azure 아키텍처 디자인 | Azure Solutions Architect | Expert | 2020.07.28 만료 예정 |
 | 08 | [AZ-303(Beta)](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-303) | Azure 아키텍처 기술 | Azure Solutions Architect | Expert | 2020.4.28 출시 예정 |
 | 09 | [AZ-304(Beta)](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-304) | Azure 아키텍처 디자인 | Azure Solutions Architect | Expert | 2020.4.28 출시 예정 |
-| 10 | [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) | Azure 데브옵스 솔루션 | Azure DevOps Engineer | Expert | AZ-103 or AZ-203 취득 필요 |
+| 10 | [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) | Azure 데브옵스 솔루션 | Azure DevOps Engineer | Expert | |
 | 11 | [AZ-500](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-500) | Azure 보안 기술 | Azure Security Engineer | Associate | |
