@@ -28,7 +28,7 @@
 | 13 | [AZ-220](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-220) | Microsoft Azure IoT Developer | Azure IoT Developer | Specialty | Beta |
 
 
-![스크린샷](../blob/Source/readme-md/az-exam-poster_200511.jpg)
+![스크린샷](../Source/readme-md/az-exam-poster_200511.jpg)
 
 
 감사합니다.
